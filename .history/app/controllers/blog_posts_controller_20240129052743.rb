@@ -1,0 +1,2 @@
+class blog_posts_controller< ApplicationController
+end
